@@ -55,7 +55,7 @@ ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
 ## Ручная установка
-[Скачайте архив](https://github.com/MrDarkPixel/AVPGameProtect/blob/main/AVPGameProtect.rar?raw=true) и распакуйте все файлы в папку с игрой (там, где находится файл gta_sa.exe), подтвердив замену, если потребуется. Если архив не получается открыть, необходимо скачать и установить «WinRAR» с официального [сайта](https://www.win-rar.com/start.html?&L=0).
+[Скачайте архив](https://github.com/MrDarkPixel/AVPGameProtect/blob/main/AVPGameProtect.rar?raw=true) и распакуйте все файлы в папку с игрой (там, где находится файл gta_sa.exe), подтвердив замену в случае необходимости. Если архив не получается открыть, необходимо скачать и установить «WinRAR» с официального [сайта](https://www.win-rar.com/start.html?&L=0).
 ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
