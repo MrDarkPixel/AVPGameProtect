@@ -1,5 +1,5 @@
 # AVPGameProtect
-![](https://www.blast.hk/proxy.php?image=https%3A%2F%2Fimage.ibb.co%2FdaDkzQ%2F00277291.png&hash=65c6d5b63f001b6d520d110bcd5e15b2)
+![](https://i.imgur.com/Wo9UdS1.png)
 ____
 [Скачать автоматический установщик](https://github.com/MrDarkPixel/AVPGameProtect/blob/main/AVPGameProtect.exe?raw=true)
 
@@ -23,7 +23,7 @@ ____
 [:arrow_up: Оглавление](#оглавление)
 ____
 ## Что делать, если система блокирует запуск файла?
-Если запуск блокирует фильтр «Smart Screen», необходимо нажать «Подробнее» и выбрать «Всё равно запустить», более подробная инстркуция (со скриншотами) есть в [этой](https://remontka.pro/windows-protected-your-pc/) статье.
+Если запуск блокирует фильтр «Smart Screen», необходимо нажать «Подробнее» и выбрать «Всё равно запустить», более подробная инстркуция есть в [этой](https://remontka.pro/windows-protected-your-pc/) статье.
 
 Если запуск блокирует встроенный в систему «Защитник Windows», необходимо [отключить его](https://www.youtube.com/watch?v=EyuTgr5LfxQ) или [добавить папку с игрой и установщик в исключения](https://support.microsoft.com/ru-ru/windows/%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%83-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C-windows-811816c0-4dfd-af4a-47e4-c301afe13b2).
 
@@ -55,7 +55,7 @@ ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
 ## Ручная установка
-[Скачайте архив](https://github.com/MrDarkPixel/AVPGameProtect/blob/main/AVPGameProtect.rar?raw=true) и распакуйте все файлы в папку с игрой (там, где находится файл gta_sa.exe), подтвердив замену в случае необходимости. Если архив не получается открыть, необходимо скачать и установить «WinRAR» с официального [сайта](https://www.win-rar.com/start.html?&L=0).
+[Скачайте архив](https://github.com/MrDarkPixel/AVPGameProtect/blob/main/AVPGameProtect.rar?raw=true) и распакуйте все файлы в папку с игрой (там, где находится файл gta_sa.exe), подтвердив замену в случае необходимости. Если архив не получается открыть, необходимо скачать и установить «WinRAR» с официального [сайта](https://www.win-rar.com/start.html?&L=0) или воспользоваться [автоматическим установщиком](https://github.com/MrDarkPixel/AVPGameProtect/blob/main/AVPGameProtect.exe?raw=true).
 ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
